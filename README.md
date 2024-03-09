@@ -4,7 +4,7 @@ Project Description: Simple Note Taking API
 
 http://127.0.0.1:8000/notes/
 here add data  or create new note
-	title = note1
+	title = note1,
 	body =  body1
 
 http://127.0.0.1:8000/notes/1/
